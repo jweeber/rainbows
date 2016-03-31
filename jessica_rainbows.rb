@@ -8,7 +8,7 @@ def find_color(red, green, blue)
     { green: { r: 0, g: 255, b: 0 } },
     { blue: { r: 0, g: 0, b: 255 } },
     { indigo: { r: 75, g: 0, b: 130 } },
-    { violet: { r: 143, g: 0, b: 255 } },
+    { violet: { r: 143, g: 0, b: 255 } }
   ]
 
   rainbow.each do |color|
